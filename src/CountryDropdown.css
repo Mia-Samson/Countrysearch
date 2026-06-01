@@ -1,7 +1,9 @@
 .dropdown-container {
-  position: relative;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Perfect centering */
   width: 250px;
-  margin: 20px;
 }
 
 .dropdown-input {
