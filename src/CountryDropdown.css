@@ -1,7 +1,7 @@
 .dropdown-container {
-  position: relative; /* stays in normal flow */
+  position: relative;
   width: 250px;
-  margin: 20px auto; /* centers horizontally under heading */
+  margin: 20px auto;
 }
 
 .dropdown-input {
