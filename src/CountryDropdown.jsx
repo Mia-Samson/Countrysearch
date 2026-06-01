@@ -54,6 +54,7 @@ export default function CountryDropdown() {
     "Mexico",
     "Morocco",
     "Nepal",
+    "North Korea",
     "Netherlands",
     "New Zealand",
     "Nigeria",
