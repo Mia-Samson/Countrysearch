@@ -62,47 +62,45 @@ src/
 
 ---
 
-## ⚙️ Installation
+# 🚀 Setup Instructions
 
 ```bash
--git clone https://github.com/Mia-Samson
--cd Countrysearch
--npm install
--npm run dev
+git clone https://github.com/Mia-Samson/Countrysearch
+cd Countrysearch
+npm install
+npm run dev
 
 ---
 
-The app will run at:
-http://localhost:5173
+## 🧠 What I Learned
+
+- React `useState` hook  
+- Real-time input handling  
+- Array filtering in JavaScript  
+- Conditional rendering  
+- Improving UI/UX in dropdown components  
+- Building interactive React components with dynamic behavior  
 
 ---
 
-🧠 What I Learned
--React useState hook
--Real-time input handling
--Array filtering in JavaScript
--Conditional rendering
--UI/UX improvements in dropdowns
--Building interactive React components
+## 🚀 Future Improvements
+
+- Keyboard navigation support (↑ ↓ Enter keys)  
+- Close dropdown when clicking outside  
+- Highlight matching search text  
+- Fetch countries from an external API instead of static data  
+- Add smooth animations for dropdown transitions  
 
 ---
 
--🚀 Future Improvements
--Keyboard navigation (↑ ↓ Enter support)
--Close dropdown on outside click
--Highlight matching text
--Fetch countries from API instead of static list
--Add animations for dropdown
+## 👨‍💻 Author
+
+**Mia Samson**  
+React.js Intern at Zerone Consulting Private Limited  
 
 ---
 
-👨‍💻 Author
+## ⭐ Acknowledgements
 
-Mia Samson
-React.js Intern at Zerone Consulting Private Limited
+Special thanks to my mentors and trainers at Zerone Consulting Private Limited for their continuous guidance, support, and encouragement throughout this learning journey.
 
----
-
-⭐ Acknowledgements
-
-Special thanks to my mentors and trainers at Zerone Consulting Private Limited for their guidance and support throughout my learning journey.
