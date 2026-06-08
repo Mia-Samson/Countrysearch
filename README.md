@@ -64,7 +64,7 @@ src/
 
 # 🚀 Setup Instructions
 
-```bash
+
 git clone https://github.com/Mia-Samson/Countrysearch
 cd Countrysearch
 npm install
